@@ -26,4 +26,6 @@
 Este projeto possui os exercícios, base de dados, exemplos, manual e
 resoluções para a parte prática de Econometria Aplicada.
 
+Os dados disponíveis aqui podem ser encontrados nos sites do DIEESE e do SUS
+
 A primeira parte é referente a uma introdção ao R.
